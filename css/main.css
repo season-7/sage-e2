@@ -269,6 +269,23 @@ header{
 	background-color: #130a0a;
 	padding: 80px 150px 60px 150px;
 	text-align: center;
+	line-height: 25px;
+}
+.logo-section p{
+	color: #737373;
+	padding: 10px;
+}
+.logo-section .logo-p{
+	color: #333333;
+	font-size: 10px;
+	font-family: 'Economica', sans-serif;
+	padding-bottom: 15px;
+}
+.logo-section .logo-div-img{
+	width: 15%;
+	display: inline-block;
+	vertical-align: top;
+	padding-top: 30px;
 }
 /*.width{
 	width: 30%;

@@ -49,6 +49,7 @@ header{
 }
 
 .btn{
+	margin-left: 520px;
 	border: 1px solid white;
 	background-color: white;
 	color: #666;
@@ -124,12 +125,103 @@ header{
 .history p{
 	padding: 7px 3px 3px 150px;
 }
-.big-logo{
-	float: right;
-}
+
 .three-img{
 	clear: both;
 }
+.hist{
+	float: right;
+}
+.history .big-logo{
+	float: right;
+	padding-right: 40px 10px 25px 700px;
+	width: 200px;
+	height: 500px;
+	position: relative;
+
+}
+.three-img{
+	padding: 40px 100px 40px 300px;
+}
+.width{
+	width: 30%;
+	display: inline-block;
+	vertical-align: top;
+	padding-left: 100px;
+	padding-right: 100px;
+	text-align: center;
+}
+.width h1{
+	padding-bottom: 5px;
+	color: red;
+	font-size: 25px;
+}
+.width p{
+	padding:5px;
+	font-size: 10px;
+}
+.services{
+	background-color:  #f2f2f2;
+	padding: 30px 150px 30px 150px;
+}
+.services h1{
+	font-size: 40px;
+	font-family: 'Cairo', sans-serif;
+	color:  #1a1a1a;
+	padding-bottom: 20px; 
+}
+.services-1{
+	width: 30%;
+	display: inline-block;
+	vertical-align: top;text-align: center;
+	line-height: 19px;
+}
+.services-1 h3{
+	padding: 15px;
+	color: #404040;
+	font-family: 'Cairo', sans-serif;
+}
+.services-1 p{
+	font-size: 13px;
+	color: #999999;
+}
+.services-1 a{
+	margin-top: 10px;
+}
+.color{
+	padding: 40px 100px;
+	text-align: center;
+	line-height: 18px;
+	background-color: #130a0a;
+}
+.color h3{
+	font-family: 'Cairo', sans-serif;
+	font-size: 16px;
+	color: #bfbfbf;
+}
+.color p{
+	color: #404040;
+	font-size: 13px;
+}
+.color .c-border{
+	border-bottom: 2px solid white;
+	color: #808080;
+}
+
+/*Journal*/
+.journal{
+	padding: 60px 150px 60px 150px;
+	line-height: 20px;
+}
+.journal h4{
+	font-family: 'Cairo', sans-serif;
+	font-size: 30px;
+	color:  #1a1a1a;
+}
+
+/*.width{
+	width: 30%;
+}*/
 /*footer*/
 
 footer{
